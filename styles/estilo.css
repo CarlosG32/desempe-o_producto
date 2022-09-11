@@ -1,0 +1,6 @@
+.banner{
+    background-image: url('../assets/img/banner-procinal.jpg');
+    padding: 10% 30% 30% 20%;
+    background-position: top center;
+    background-size: cover;
+}
